@@ -27,7 +27,7 @@ Isso garante **privacidade por design** e torna a aplicação ideal para quem va
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **Backend:** Python (FastAPI, WebSocket)  
 - **STT (fala → texto):** Whisper.cpp ou Faster-Whisper  
 - **LLM (respostas):** Llama.cpp (Llama 3) ou DeepSeek (quantizado)  
